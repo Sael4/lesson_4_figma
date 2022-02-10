@@ -1,0 +1,62 @@
+@import "null.css";
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+
+body {
+	font-family: "Lato", sans-serif;
+}
+
+main {
+	width: 810px;
+}
+
+h1 {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1e212c;
+}
+
+img {
+	padding: 92px 0 0;
+}
+
+.title {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+	padding: 60px 0 24px;
+}
+
+p {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	padding-bottom: 24px;
+}
+
+.block {
+	padding: 24px 0 24px 58px;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+}
+
+ul {
+	padding-bottom: 24px;
+}
+
+ul li {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	padding: 0 0 6px 32px;
+}
+
+footer {
+	width: 810px;
+}
